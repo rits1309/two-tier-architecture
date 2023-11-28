@@ -22,10 +22,5 @@ terraform plan
 ``
 terraform apply
 ```
-#### To verify deployment:
-
-```
-curl <alb_public_url>
-```
 
 
