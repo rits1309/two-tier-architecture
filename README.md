@@ -19,7 +19,7 @@ terraform init
 terraform plan
 ```
 **5.Then ,run "terraform apply" to commit the changes what terraform made.**
-``
+```
 terraform apply
 ```
 
